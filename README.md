@@ -1,2 +1,2 @@
 # Smallest.Integer.Algo
-Find the smallest number in a list of integers
+Find the smallest OR largest numbers in a list of integers changing only one variable (< & >)
