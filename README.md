@@ -1,2 +1,2 @@
 
-Find the smallest OR largest numbers in a list of integers changing only one variable (< & >)
+Find the smallest OR largest numbers in a list of integers by changing only one variable (< & >)
